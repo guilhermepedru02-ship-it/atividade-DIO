@@ -105,7 +105,6 @@ Antes de enviar a massa de dados para processamento e geração analítica pela 
 
 ```text
 atividade DIO/
-├── 8683bed0-cc33-4e06-bca9-04db9c31f9e2.xlsx   # Base de dados original (dados brutos da atividade)
 ├── porsche-dashboard.html                      # Dashboard corporativo em arquivo único HTML (Entrega principal)
 ├── index.html                                  # Espelho do dashboard para abertura imediata via duplo clique
 └── README.md                                   # Documentação completa e ordenada do processo
