@@ -114,8 +114,4 @@ atividade DIO/
 ---
 
 ## 🚀 Como Visualizar o Dashboard
-
-1. Dê um duplo-clique sobre o arquivo `porsche-dashboard.html` (ou `index.html`) para abri-lo diretamente em qualquer navegador moderno (Chrome, Edge, Firefox, Safari).
-2. Não é necessária nenhuma instalação ou servidor local: o arquivo já contém todos os scripts, estilos e bases de dados embutidos.
-3. Utilize os seletores no painel superior para recortar dinamicamente os dados por **Família de Modelos**, **Ano da Venda**, **Método de Pagamento**, **Estado (UF)** ou **Status de Entrega**.
-4. Teste a busca textual no rodapé para localizar veículos por modelo, quilometragem ou modalidade de pagamento em tempo real.
+LINK - https://guilhermepedru02-ship-it.github.io/atividade-DIO/
